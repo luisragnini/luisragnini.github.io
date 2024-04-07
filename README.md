@@ -7,7 +7,7 @@ Estou ansioso com essa nova área de estudos e tambpem com o desenvolvimento de 
 🇺🇸 - Hello, my name is Luís Henrique, and I am a new developer. This is my first project developed entirely with HTML and CSS. It's a presentation resume. 
 I am excited about this new area of study and also about the development of new projects, as I have always wanted to dedicate myself more to programming.
 
-SCREENSHOTS
+<strong>SCREENSHOTS</strong>
 
 
 ![Screenshot 1](https://github.com/luisragnini/luisragnini.github.io/assets/163076536/367bb9b4-07d5-4ce8-a90d-3af2dc7fde1c)
