@@ -1,6 +1,6 @@
 .introducao {
   max-width: 1200px;
-  padding: 40px 20px;
+  padding: 50px 50px;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -18,12 +18,13 @@
 .introducao h1::before {
   content: "";
   display: block;
-  width: 130px;
-  height: 100px;
-  background: url("../img/detalhe.svg") no-repeat center;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: #d08bf1;
   position: absolute;
-  top: -30px;
-  left: -40px;
+  top: 15px;
+  left: 0px;
   z-index: -1;
 }
 
