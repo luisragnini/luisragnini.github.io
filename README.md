@@ -1,5 +1,5 @@
 🇧🇷 - Olá, meu nome é Luís Henrique e eu sou um novo desenvolvedor. Esse é o meu primeiro projeto desenvolvido totalmente com HTML e CSS. É um currículo de apresentação. 
-Estou ansioso com essa nova área de estudos e tambpem com o desenvolvimento de novos projetos, pois sempre quis me dedicar mais a programação.
+Estou ansioso com essa nova área de estudos e também com o desenvolvimento de novos projetos, pois sempre quis me dedicar mais a programação.
 
 
 
